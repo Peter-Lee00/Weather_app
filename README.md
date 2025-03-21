@@ -8,6 +8,7 @@ Introduction (소개)
   OpenWeather API를 사용하여 실시간 날씨 정보를 제공합니다.
 
 Features (기능)
+
 Fetch weather based on current location
 - 현재 위치 날씨 조회: Geolocator를 이용하여 자동으로 현재 위치의 날씨를 가져옵니다.
 Search weather by city name
