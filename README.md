@@ -15,7 +15,6 @@ Features
 Installation & Usage 
 
 1.Clone the project 
- git clone https://github.com/your-username/weather-app.git
  cd weather-app
 
 2. Install dependencies 
