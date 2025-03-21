@@ -44,6 +44,6 @@ Used dependencies
 - Geolocator
 - http
 - Lottie
-- 
+  
 License
 - This project is licensed under the MIT License – feel free to modify and distribute.
