@@ -21,14 +21,15 @@ Animated weather icons based on conditions
 
 Project Structure (프로젝트 구조)
 
-weather_app
- ├── main.dart                 // Main entry point (앱의 시작 포인트)
+ weather_app
+ ├── main.dart                 // 앱의 진입점 (Main entry point)
  ├── pages/
- │   ├── weather_page.dart      // Main UI (메인 UI)
+ │   ├── weather_page.dart      // 메인 UI (Main UI)
  ├── services/
- │   ├── weather_service.dart   // Weather data handling (날씨 데이터 처리)
+ │   ├── weather_service.dart   // 날씨 데이터 처리 (Weather data handling)
  ├── models/
- │   ├── weather_model.dart     // Weather data model (날씨 데이터 모델)
+ │   ├── weather_model.dart     // 날씨 데이터 모델 (Weather data model)
+
 
 
 Installation & Usage (설치 및 실행 방법)
