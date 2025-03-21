@@ -12,7 +12,7 @@ class WeatherPage extends StatefulWidget {
 
 class _WeatherPageState extends State<WeatherPage> {
   // api key
-  final _weatherService = WeatherService('afbf28e7e01149b11688283b929ce0fb');
+  final _weatherService = WeatherService('APIKEY');
   Weather? _weather;
   bool _isDarkMode = true; // Default to dark mode
   bool _isLoading = false;
