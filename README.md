@@ -12,17 +12,6 @@ Features
 4. Supports dark mode
 5. Animated weather icons based on conditions
 
-Project Structure 
-
- weather_app
- ├── main.dart                 // Main entry point
- ├── pages/
- │   ├── weather_page.dart      // Main UI
- ├── services/
- │   ├── weather_service.dart   // Weather data handling
- ├── models/
- │   ├── weather_model.dart     // Weather data model
-
 Installation & Usage 
 
 1.Clone the project 
